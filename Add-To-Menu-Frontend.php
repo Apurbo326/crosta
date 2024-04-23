@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Add Items to Menu</h1>
-    <form action="Add-To_Menu-Backend.php" method="POST">
+    <form action="Add-To-Menu-Backend.php" method="POST">
     <p>
         Item name : <input type="text" name="item_name" required><br><br>
         Item description : <input type="text" name="item_description" required><br><br>
